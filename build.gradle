@@ -1,0 +1,31 @@
+buildscript {
+    ext {
+        cucumberVersion = '4.2.0'
+    }
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+}
+
+gradle.startParameter.continueOnFailure = true
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+configurations.all {
+    resolutionStrategy {
+        force 'io.cucumber:cucumber-core:4.2.0'
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "io.cucumber:cucumber-core:$cucumberVersion"
+    testImplementation "io.cucumber:cucumber-java:$cucumberVersion"
+    testImplementation "io.cucumber:cucumber-junit:$cucumberVersion"
+}
