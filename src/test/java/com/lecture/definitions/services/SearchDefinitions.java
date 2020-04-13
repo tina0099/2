@@ -30,4 +30,13 @@ public class SearchDefinitions {
     public void verifyErrorMessage(String missingHeader) {
 
     }
+
+    @Then("Search Results are sorted")
+    public void searchResultsAreSorted() {
+        
+    }
+
+    @Then("Search Results are displayed according to the <view>")
+    public void searchResultsAreDisplayedAccordingToTheView() {
+    }
 }

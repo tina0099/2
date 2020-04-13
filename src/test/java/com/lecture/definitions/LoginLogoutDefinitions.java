@@ -53,4 +53,8 @@ public class LoginLogoutDefinitions {
 
     }
 
+    @Given("Authorized read user login")
+    public void authorizedReadUserLogin() {
+
+    }
 }
