@@ -40,5 +40,8 @@ public class OnClick {
 
     @And("Click on <view> icon")
     public void clickOnViewIcon() {
+
     }
+
+
 }
