@@ -1,7 +1,7 @@
 Feature: BDD-1 Verify Login/Logout functionality
 
   As a user of an application
-  I want to add a review to a product
+  I want to add a review to a productt
 
 
   @smoke

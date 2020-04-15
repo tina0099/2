@@ -26,7 +26,7 @@ Feature: BDD-1 Verify Login/Logout functionality
     And Change <checkbox filter state>
     Then Search results are filtered
     Examples:
-      |Category|Subcategory|Checbox filter state|
+      |Category|Subcategory|Checboxx filter state|
       |Health|Sanitizer|Checked|
       |Home|Furniture|Unchecked|
       |Child products|Child car|

@@ -28,7 +28,7 @@ Feature: BDD-1 Verify Login/Logout functionality
     And Click on Clear All button
     Then All filters are cleared
     Examples:
-      |Category|Subcategory|
+      |Category|Subcategoryy|
       |Health|Sanitizer|
       |Home|Furniture|
       |Child products|Child car|

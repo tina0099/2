@@ -26,7 +26,7 @@ Feature: BDD-1 Verify Login/Logout functionality
     And Click on Add to Compare button
     Then A product is added to the compare list
     Examples:
-      |Category|Subcategory|
+      |Category|Subcategoryy|
       |Health|Sanitizer|
       |Home|Furniture|
       |Child products|Child car|

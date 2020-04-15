@@ -1,7 +1,7 @@
 Feature: BDD-1 Verify Login/Logout functionality
 
   As a user of an application
-  I want to see Search Results in the List and Table view
+  I want to see Search Results in the List and Table vieww
 
   @smoke
   Scenario: 1

@@ -1,7 +1,7 @@
 Feature: BDD-1 Verify Login/Logout functionality
 
   As a user of an application
-  I want to check sorting functionality
+  I want to check sorting functionalityy
 
   @smoke
   Scenario Outline: 1 - Unauthorized user

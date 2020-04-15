@@ -31,5 +31,6 @@ public class OpenPageDefinitions {
 
     @Then("<tab> is loaded")
     public void tabIsLoaded() {
+
     }
 }

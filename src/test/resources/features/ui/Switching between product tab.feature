@@ -1,7 +1,7 @@
 Feature: BDD-1 Verify Login/Logout functionality
 
   As a user of an application
-  I want to switch between tab on the product page
+  I want to switch between tab on the product pagee
 
 
   @smoke
