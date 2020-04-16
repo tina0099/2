@@ -1,8 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-3 Checkbox filtering
 
   As a user of an application
   I want to filter Search result with checkbox filter
-
+  For finding products in my/not my country
 
   @smoke
   Scenario: 1 - Unauthorized user
@@ -12,7 +12,7 @@ Feature: BDD-1 Verify Login/Logout functionality
     And Change <checkbox filter state>
     Then Search results are filtered
     Examples:
-      |Category|Subcategory|Checbox filter state|
+      |Category|Subcategory|Checkbox filter state|
       |Health|Sanitizer|Checked|
       |Home|Furniture|Unchecked|
       |Child products|Child car|
@@ -26,7 +26,7 @@ Feature: BDD-1 Verify Login/Logout functionality
     And Change <checkbox filter state>
     Then Search results are filtered
     Examples:
-      |Category|Subcategory|Checboxx filter state|
+      |Category|Subcategory|Checkbox filter state|
       |Health|Sanitizer|Checked|
       |Home|Furniture|Unchecked|
       |Child products|Child car|

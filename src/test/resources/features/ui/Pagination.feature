@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-8 pagination
 
   As a user of an application
-  I want to switch between pagess
+  I want to switch between pages
+  For observing all the products from search result
 
 
   @smoke

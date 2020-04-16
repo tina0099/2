@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-7 filtering dropdown
 
   As a user of an application
-  I want to filter Search result with filter dropdownn
+  I want to filter Search result with filter dropdown
+  To be sure that all filters were applied to the search results
 
 
   @smoke

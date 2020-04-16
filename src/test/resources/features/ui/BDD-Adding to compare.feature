@@ -1,7 +1,7 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-2 Adding to compare feature
 
   As a user of an application
-  I want to add a product for comparing
+  I want to add a product for comparing list
 
 
   @smoke

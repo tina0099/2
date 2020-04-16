@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-6 filtering by price
 
   As a user of an application
-  I want to filter Search result by pricee
+  I want to filter Search result by price
+  For finding products which are in price range
 
 
   @smoke

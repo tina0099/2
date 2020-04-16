@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-10 switching between product tab
 
   As a user of an application
-  I want to switch between tab on the product pagee
+  I want to switch between tab on the product page
+  And observe product's information
 
 
   @smoke

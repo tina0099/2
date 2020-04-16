@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-5 comment adding
 
   As a user of an application
-  I want to add a review to a productt
+  I want to fill in and sent the form with review
+
 
 
   @smoke

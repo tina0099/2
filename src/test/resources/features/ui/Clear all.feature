@@ -1,7 +1,8 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-4 Clear all feature
 
   As a user of an application
-  I want to fclear all selected filters
+  I want to clear all selected filters
+  For seeing all the results
 
 
   @smoke

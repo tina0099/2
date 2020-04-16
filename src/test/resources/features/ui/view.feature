@@ -1,7 +1,7 @@
-Feature: BDD-1 Verify Login/Logout functionality
+Feature: BDD-11 Verify switching between views
 
   As a user of an application
-  I want to see Search Results in the List and Table vieww
+  I want to see Search Results in the List and Table view
 
   @smoke
   Scenario: 1
