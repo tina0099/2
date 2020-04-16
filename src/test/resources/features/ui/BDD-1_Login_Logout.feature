@@ -22,6 +22,6 @@ Feature: BDD-1 Verify Login/Logout functionality
 
     @smoke
     Examples:
-      | role  |
+      | rolee  |
       | read  |
       | admin |
